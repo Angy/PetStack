@@ -2,16 +2,22 @@ export default [
   {
     name: 'Sheeba',
     breed: 'Persian',
-    gender: 'Female'
+    species: 'cat',
+    gender: 'Female',
+    age: 1
   },
   {
     name: 'Freaky',
     breed: 'Indian',
-    gender: 'Male'
+    species: 'cat',
+    gender: 'Male',
+    age: 2
   },
   {
     name: 'Pearl',
     breed: 'Chinese',
-    gender: 'Female'
+    species: 'cat',
+    gender: 'Female',
+    age: 3
   }
 ]
